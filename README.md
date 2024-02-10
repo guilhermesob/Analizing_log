@@ -1,7 +1,5 @@
 # Analizing_log
 
-# Analizing_log
-
 Este projeto tem como objetivo melhorar suas habilidades de análise de redes, especialmente como engenheiro de redes e segurança da informação. O projeto inclui scripts para análise de logs e pacotes de rede, fornecendo funcionalidades básicas de um SIEM (Security Information and Event Management).
 
 ## Funcionalidades
